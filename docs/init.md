@@ -17,13 +17,13 @@ npm install -g yarn
 
 https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html
 
-![52318594577](D:\workspace\magic-frog\docs\assets\1523185945779.png)
+![52318594577](assets/1523185945779.png)
 
 ## 开始项目
 
 ### 克隆&安装依赖
 
-![52318599480](D:\workspace\magic-frog\docs\assets\1523185994807.png)
+![52318599480](assets/1523185994807.png)
 
 ```
 yarn --dev #安装依赖
@@ -32,11 +32,11 @@ yarn dev   #进入开发模式
 
 ### 配置小程序开发工具
 
-![52318605878](D:\workspace\magic-frog\docs\assets\1523186058784.png)
+![52318605878](assets/1523186058784.png)
 
 点击确定&点击远程调试
 
-![52318629452](D:\workspace\magic-frog\docs\assets\1523186294526.png)
+![52318629452](assets/1523186294526.png)
 
 之后就可以愉快的敲代码了！
 
@@ -44,11 +44,11 @@ yarn dev   #进入开发模式
 
 修改`pages/index/index.vue`中的`Hello World`->`Hello World123`&保存 。
 
-![52318627578](D:\workspace\magic-frog\docs\assets\1523186275789.png)
+![52318627578](assets/1523186275789.png)
 
  之后自动发生了变化。颈部惊喜！意不意外！
 
-![52318641697](D:\workspace\magic-frog\docs\assets\1523186416970.png)
+![52318641697](assets/1523186416970.png)
 
 ## 小试牛刀
 
@@ -112,7 +112,7 @@ https://cn.vuejs.org/v2/guide/syntax.html
 
 看眼效果
 
-![52318709502](D:\workspace\magic-frog\docs\assets\1523187095026.png)
+![52318709502](assets/1523187095026.png)
 
 有点丑，加上样式。。。在`card.vue`中
 
@@ -184,7 +184,7 @@ https://cn.vuejs.org/v2/guide/syntax.html
 
 按下保存键(emmm Ctrl+S) 233
 
-![52318730557](D:\workspace\magic-frog\docs\assets\1523187305574.png)
+![52318730557](assets/1523187305574.png)
 
 ok....
 
